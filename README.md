@@ -2,6 +2,13 @@
 
 A small bug tracking interface built with vanilla JavaScript.
 
+## Project Purpose
+
+This project was built as a JavaScript practice exercise to reinforce
+core frontend concepts such as event delegation, DOM updates, and
+state-based UI rendering without using a framework.
+
+
 ## Features
 
 - Bug filtering by status and priority
@@ -21,7 +28,5 @@ A small bug tracking interface built with vanilla JavaScript.
 [CodePen](https://codepen.io/spookrazor2/pen/raMejry)
 
 
-## Live Project
-<video src="https://github.com/user-attachments/assets/267e03ad-65ce-4e2f-b144-747640eab84b" controls width="100%"></video>
-
+## Live Demo
 
