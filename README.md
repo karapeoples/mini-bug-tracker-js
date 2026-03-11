@@ -28,5 +28,5 @@ state-based UI rendering without using a framework.
 [CodePen](https://codepen.io/spookrazor2/pen/raMejry)
 
 
-## Live Demo
+## Project Preview
 ![Bug Tracker Demo](mini_bug_tracker_demo.gif)
