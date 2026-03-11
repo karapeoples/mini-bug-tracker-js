@@ -21,6 +21,7 @@ A small bug tracking interface built with vanilla JavaScript.
 [CodePen](https://codepen.io/spookrazor2/pen/raMejry)
 
 
-##Live Project
-[Live Action](https://github.com/user-attachments/assets/267e03ad-65ce-4e2f-b144-747640eab84b)
+## Live Project
+<video src="https://github.com/user-attachments/assets/267e03ad-65ce-4e2f-b144-747640eab84b" controls width="100%"></video>
+
 
