@@ -1,0 +1,31 @@
+<main id="main">
+
+  <!-- Bug tracker dashboard and filter controls -->
+  <section id="status">
+    <div id="title">Status of Bugs</div>
+
+    <!-- Primary bug counters -->
+    <div id="info">
+      <span class="badge" data-filter="all">[All: <span id="all"></span>]</span>
+      <span class="badge" data-filter="open">[🟡 Open: <span id="open"></span>]</span>
+      <span class="badge" data-filter="closed">[⚫ Closed: <span id="closed"></span>]</span>
+      <span class="badge" data-filter="high">[🔴 High Priority: <span id="high"></span>]</span>
+      <span class="badge" data-filter="low">[🟢 Low Priority: <span id="low"></span>]</span>
+
+      <!-- Combined status + priority filters -->
+      <div id="filters">
+        <span class="badge" data-filter="important">[🔴🟡 Important: <span id="important"></span>]</span>
+        <span class="badge" data-filter="attentionHigh">[🟢🟡 Feature: <span id="attentionHigh"></span>]</span>
+        <span class="badge" data-filter="attentionLow">[🔴⚫ Recurring: <span id="attentionLow"></span>]</span>
+        <span class="badge" data-filter="notImportant">[🟢⚫ closedLow: <span id="notImportant"></span>]</span>
+      </div>
+    </div>
+  </section>
+
+  <!-- Bug list display area -->
+  <section id="card">
+    <div id="listContainer">
+      <ul id="list"></ul>
+    </div>
+  </section>
+</main>
