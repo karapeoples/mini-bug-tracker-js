@@ -29,4 +29,4 @@ state-based UI rendering without using a framework.
 
 
 ## Live Demo
-![Bug Tracker Demo](dmini_bug_tracker_demo.gif)
+![Bug Tracker Demo](mini_bug_tracker_demo.gif)
